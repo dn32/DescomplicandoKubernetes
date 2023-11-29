@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" ?>
+
+<metadata
+  xmlns="http://example.org/myapp/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://example.org/myapp/ http://example.org/myapp/schema.xsd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  	<dc:title>Descomplicando Kubernetes</dc:title> 
+	<dc:language>pt-BR</dc:language> 
+	<dc:creator opf:file-as="Eini, Oren" opf:role="aut">Bdtuxx</dc:creator> 
+	<dc:publisher>Bdtuxx</dc:publisher>
+	<dc:date opf:event="publication">2023-11-19</dc:date>
+	<dc:url>https://github.com/badtuxx/DescomplicandoKubernetes</dc:url>
+</metadata>

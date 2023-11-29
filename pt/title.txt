@@ -1,0 +1,13 @@
+% Descomplicando Kubernetes
+% badtuxx
+% badtuxx
+
+---
+header-includes:
+    - \lstset{breaklines=true}
+    - \lstset{basicstyle=\small\ttfamily}
+    - \lstset{extendedchars=true}
+    - \lstset{tabsize=2}
+    - \lstset{columns=fixed}
+    - \lstset{showstringspaces=false}
+...
